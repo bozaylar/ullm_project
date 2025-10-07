@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ### 2. Add your OpenAI API key
 Edit `evaluate_gpt5.py` and insert your key:
 ```python
-API_KEY = "your-key-here"
+API_KEY = "API_KEY"
 ```
 
 ### 3. Run the evaluation
